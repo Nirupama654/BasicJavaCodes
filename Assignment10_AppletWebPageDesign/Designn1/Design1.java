@@ -1,3 +1,4 @@
+package LabAssignments.Assignment10_AppletWebPageDesign.Designn1;
 //package LabAssignments.Assignment10_AppletWebPageDesign;
 
 import java.applet.*;
